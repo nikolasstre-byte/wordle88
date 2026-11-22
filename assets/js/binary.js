@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v4.1.28/---simulator","cdnUrl":"https://cdn.makecode.com","version":"0.0.0","target":"arcade","targetVersion":"4.1.28"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v4.1.28/---simulator","cdnUrl":"https://cdn.makecode.com","version":"0.0.1","target":"arcade","targetVersion":"4.1.28","repo":"nikolasstre-byte/wordle88"}
 // total=1918373 new=2.93% cached=70.03% other=27.03%
 (function (ectx) {
 'use strict';

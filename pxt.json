@@ -1,5 +1,6 @@
 {
     "name": "wordle88",
+    "version": "0.0.1",
     "description": "wordle88, guess a five letter word - you only have six guesses",
     "dependencies": {
         "device": "*"
